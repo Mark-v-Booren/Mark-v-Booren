@@ -35,7 +35,7 @@
 
 ### Fun Fact
 
-- Coding is as much fun as other interesting things in life: like , music and drawing 
+- puzzling is rational meditation 
 
 ### My GitHub Journey
 
