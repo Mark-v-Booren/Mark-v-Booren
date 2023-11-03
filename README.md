@@ -14,10 +14,10 @@ THe NEXTjs projects are really amaizing and the development in animation are als
 ### Projects
 
 Here i like to list some netlifysites to check out ogf mu repositories:
-[Link Text](URL)
-[Link Text](URL)
-[Link Text](URL)
-[Link Text](URL)
+[Front-End Assignment](https://front-end-assignment-mark-v-booren.netlify.app/)
+[MovieBase Nextjs](https://moviebase-nextjs.netlify.app/)
+[Comic](URL)
+[The Joke Show](URL)
 
 
 <p align="center">
