@@ -8,14 +8,11 @@
 
 ### Technologies
 
-- I first coded whan I was really young: on the comodore 64. I finally found coding back a few years ago.
-A lot was changed and I was mezzmerized by the fastness and smartness of all.
-I got a Full-Stack certicate by WINC Academy in Amsterdam.
-A lot did come across: HTML, CSS, Python, Javascript, Typescript, Tailwind, React, Nextjs, Peewee, Gunicorn, 
-At this momnet I really like to explore more of combinations with art and webdevelopment.
-The NEXTjs projects are really amaizing and the development in animation are also awesome.
-A simple audio player is now in progress.  A small audio player for a punk-rock band so its like a little walkman online with only 1 album on it.
+I embarked on my coding journey at a young age, starting with the Commodore 64. Years later, I rediscovered my passion for coding and was amazed by the rapid evolution of the tech world. In pursuit of my enthusiasm, I earned a Full-Stack certificate from WINC Academy in Amsterdam, expanding my skills in a variety of languages and technologies, including HTML, CSS, Python, JavaScript, TypeScript, Tailwind, React, Next.js, Peewee, and Gunicorn.
 
+At this moment, I'm captivated by the fusion of art and web development. Working with NEXT.js has been particularly exciting, and I'm delving into the world of web animations. I'm currently working on a project that involves creating a simple audio player for a punk-rock band—a digital walkman showcasing their album. 
+
+Join me on this journey as I explore the boundaries of creativity and technology in the ever-evolving world of web development!
  
 ### Projects
 
