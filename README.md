@@ -17,7 +17,7 @@ Here i like to list some netlifysites to check out ogf mu repositories:
 [Front-End Assignment](https://front-end-assignment-mark-v-booren.netlify.app/)  
 [MovieBase Nextjs](https://moviebase-nextjs.netlify.app/)  
 [Comic](URL)  
-[The Joke Show](URL)  
+[The Joke Show](https://app.netlify.com/sites/the-joke-show)  
 
 
 <p align="center">
