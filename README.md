@@ -6,11 +6,15 @@
 
 ### Technologies
 
-- I started coding whan I was young. After a lot of other things in life that I liked too I finally found coding back a few years ago.
-I got a new Full-Stack certicate by WINC Academy in Amsterdam.
-I enjoy REACT but like also the power of HTML & JS.
-THe NEXTjs projects are really amaizing and the development in animation are also awesome  
+- I first coded whan I was really young: on the comodore 64. After a lot of other things in life ( music and drawing) I finally found coding back a few years ago.
+- A lot was changed and I was mezzmerized by the fastness and smartness of all.
+I got a Full-Stack certicate by WINC Academy in Amsterdam.
+A lot did come across: HTML, CSS, Python, Javascript, Typescript, Tailwind, React, Nextjs, Peewee, Gunicorn, 
+At this momnet I really like to explore more of combinations with art and webdevelopment.
+The NEXTjs projects are really amaizing and the development in animation are also awesome.
+A simple audio player is now in progress.  A small audio player for a punk-rock band so its like a little walkman online with only 1 album on it.
 
+ 
 ### Projects
 
 Here i like to list some netlifysites to check out ogf mu repositories:  
@@ -32,7 +36,7 @@ Here i like to list some netlifysites to check out ogf mu repositories:
 - 
 
 ### Fun Fact
-### Sep 9, 1947 CE: World's First Computer Bug. On September 9, 1947, a team of computer scientists reported the world's first computer bug—a moth trapped in their computer at Harvard University.
+Sep 9, 1947 CE: World's First Computer Bug. On September 9, 1947, a team of computer scientists reported the world's first computer bug—a moth trapped in their computer at Harvard University.
 
 ### My GitHub Journey
 
