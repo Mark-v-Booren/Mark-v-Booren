@@ -1,15 +1,4 @@
-<p align="center">
-  <img src="your-profile-image-url" alt="Mark van Booren">
-</p>
-
 <h1 align="center">Hello, I'm Mark</h1>
-
-<p align="center">
-  <a href="https://www.markvanbooren.com">Website</a> •
-  <a href="https://https://www.linkedin.com/in/markvanbooren/">LinkedIn</a>
-</p>
-
----
 
 ### About Me
 
@@ -17,16 +6,25 @@
 
 ### Technologies
 
-- List the technologies, programming languages, and tools you're proficient in.
+- I started coding whan I was young. After a lot of other things in life that I liked too I finally found coding back a few years ago.
+I got a new Full-Stack certicate by WINC Academy in Amsterdam.
+I enjoy REACT but like also the power of HTML & JS.
+THe NEXTjs projects are really amaizing and the development in animation are also awesome  
 
 ### Projects
 
-- Showcase some of your top projects with brief descriptions.
-- Include links to repositories or live demos.
+Here i like to list some netlifysites to check out ogf mu repositories:
+[Link Text](URL)
+[Link Text](URL)
+[Link Text](URL)
+[Link Text](URL)
 
-### GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Mark-v-Booren/&show_icons=true)
+<p align="center">
+  <a href="https://www.markvanbooren.com">Website</a> •
+  <a href="https://https://www.linkedin.com/in/markvanbooren/">LinkedIn</a>
+</p>
+
 
 ### Contact Me
 
@@ -34,8 +32,7 @@
 - 
 
 ### Fun Fact
-
-- puzzling is rational meditation 
+### Sep 9, 1947 CE: World's First Computer Bug. On September 9, 1947, a team of computer scientists reported the world's first computer bug—a moth trapped in their computer at Harvard University.
 
 ### My GitHub Journey
 
@@ -43,14 +40,14 @@
 
 ### Quote
 
-- Share a favorite quote or a piece of wisdom that inspires you.
+"If the code is relevant to you it is relevant for the cosmos!
 
 ### Support
 
 If you find my work valuable, consider supporting me by [buying me a coffee](https://ko-fi.com/your-coffee-link) or [sponsor my work](https://github.com/sponsors/your-username).
 
----
+#### extra funfact: my very first site with audio : [Link Text](URL)
 
-
+Thanks for visiting! 
 
 
