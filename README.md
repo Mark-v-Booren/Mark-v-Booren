@@ -16,23 +16,19 @@ Join me on this journey as I explore the boundaries of creativity and technology
  
 ### Projects
 
+<p align="center">
 Here are some of my Github repositories online:   
 [Front-End Assignment](https://front-end-assignment-mark-v-booren.netlify.app/)  
 [MovieBase Nextjs](https://moviebase-nextjs.netlify.app/)  
 [Comic](URL)  
 [The Joke Show](https://app.netlify.com/sites/the-joke-show)  
-
-
-<p align="center">
-  <a href="https://www.markvanbooren.com">Website</a> •
-  <a href="https://https://www.linkedin.com/in/markvanbooren/">LinkedIn</a>
 </p>
-
 
 ### Contact Me
 
 - markvbooren@protonmail.com
-- 
+- <a href="https://https://www.linkedin.com/in/markvanbooren/">LinkedIn</a>  
+
 
 ### Fun Fact
 Sep 9, 1947 CE: World's First Computer Bug. On September 9, 1947, a team of computer scientists reported the world's first computer bug—a moth trapped in their computer at Harvard University.
