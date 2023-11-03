@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Mark</h1>
 
+### Quote
+"If the code is relevant to you it is relevant for the cosmos!
+
 ### About Me
 
 - 🌍 I live in beautiful Amsterdam, the Netherlands.
@@ -24,28 +27,15 @@ Here are some of my Github repositories online:
 
 
 ### Contact Me
-
 - markvbooren@protonmail.com
 - <a href="https://https://www.linkedin.com/in/markvanbooren/">LinkedIn</a>  
-
 
 ### Fun Fact
 Sep 9, 1947 CE: World's First Computer Bug. On September 9, 1947, a team of computer scientists reported the world's first computer bug—a moth trapped in their computer at Harvard University.
 
-### My GitHub Journey
 
-- Describe your journey on GitHub, your achievements, or any milestones.
-
-### Quote
-
-"If the code is relevant to you it is relevant for the cosmos!
-
-### Support
-
-If you find my work valuable, consider supporting me by [buying me a coffee](https://ko-fi.com/your-coffee-link) or [sponsor my work](https://github.com/sponsors/your-username).
 
 #### And at last! My very first site with audio ( put on the volume) : [Who is that???](https://who-is-that.netlify.app)
-
 Thanks for visiting! 
 
 
