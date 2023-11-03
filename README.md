@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mark</h1>
 
 ### Quote
-"If the code is relevant to you it is relevant for the cosmos!
+<h2 align="center"">If the code is relevant to you it is relevant for the cosmos"</h2>
 
 ### About Me
 
