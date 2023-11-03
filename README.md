@@ -16,13 +16,12 @@ Join me on this journey as I explore the boundaries of creativity and technology
  
 ### Projects
 
-<p align="center">
 Here are some of my Github repositories online:   
 [Front-End Assignment](https://front-end-assignment-mark-v-booren.netlify.app/)  
 [MovieBase Nextjs](https://moviebase-nextjs.netlify.app/)  
 [Comic](URL)  
 [The Joke Show](https://app.netlify.com/sites/the-joke-show)  
-</p>
+
 
 ### Contact Me
 
