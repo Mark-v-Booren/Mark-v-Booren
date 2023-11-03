@@ -2,12 +2,14 @@
 
 ### About Me
 
-
+- 🌍 I live in beautiful Amsterdam, the Netherlands.
+- 👨‍💻 I'm a passionate coder who enjoys the thrill of solving complex problems and creating innovative solutions.
+- 💼 Currently on the lookout for new job opportunities in the field of coding.
 
 ### Technologies
 
-- I first coded whan I was really young: on the comodore 64. After a lot of other things in life ( music and drawing) I finally found coding back a few years ago.
-- A lot was changed and I was mezzmerized by the fastness and smartness of all.
+- I first coded whan I was really young: on the comodore 64. I finally found coding back a few years ago.
+A lot was changed and I was mezzmerized by the fastness and smartness of all.
 I got a Full-Stack certicate by WINC Academy in Amsterdam.
 A lot did come across: HTML, CSS, Python, Javascript, Typescript, Tailwind, React, Nextjs, Peewee, Gunicorn, 
 At this momnet I really like to explore more of combinations with art and webdevelopment.
