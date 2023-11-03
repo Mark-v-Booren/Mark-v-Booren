@@ -16,7 +16,7 @@ Join me on this journey as I explore the boundaries of creativity and technology
  
 ### Projects
 
-Here i like to list some netlifysites to check out ogf mu repositories:  
+Here are some of my Github repositories online: 
 [Front-End Assignment](https://front-end-assignment-mark-v-booren.netlify.app/)  
 [MovieBase Nextjs](https://moviebase-nextjs.netlify.app/)  
 [Comic](URL)  
